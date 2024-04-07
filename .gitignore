@@ -1,1 +1,7 @@
-myenv/*
+myenv
+build
+dist
+src/textSummarizer.egg-info
+artifacts
+logs
+
